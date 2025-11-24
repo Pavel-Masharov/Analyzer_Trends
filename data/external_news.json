@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sust_energy_001",
+    "theme": "Водородная энергетика",
+    "description": "Зеленый водород становится ключевым элементом декарбонизации промышленности",
+    "confidence": 0.87,
+    "category": "renewable_energy",
+    "tags": ["hydrogen", "green energy", "decarbonization", "industry"],
+    "source": "iea_report",
+    "date": "2024-02-10",
+    "engagement_metrics": {
+      "mentions": 2800,
+      "growth_rate": 0.51,
+      "adoption_level": "early_adopters"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  },
+  {
+    "id": "sust_tech_002", 
+    "theme": "Умные энергосети",
+    "description": "Развитие интеллектуальных сетей для эффективного распределения возобновляемой энергии",
+    "confidence": 0.82,
+    "category": "energy_technology",
+    "tags": ["smart grid", "renewable energy", "energy distribution", "energy efficiency"],
+    "source": "energy_innovation_report",
+    "date": "2024-02-08",
+    "engagement_metrics": {
+      "mentions": 1900,
+      "growth_rate": 0.33,
+      "adoption_level": "early_mainstream"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  },
+  {
+    "id": "sust_transport_003",
+    "theme": "Электрический транспорт",
+    "description": "Ускоренный переход на электромобили в городском транспорте и логистике",
+    "confidence": 0.85,
+    "category": "sustainable_transport",
+    "tags": ["electric vehicles", "urban transport", "logistics", "charging infrastructure"],
+    "source": "transport_trends",
+    "date": "2024-02-05",
+    "engagement_metrics": {
+      "mentions": 4200,
+      "growth_rate": 0.45,
+      "adoption_level": "mainstream"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  },
+  {
+    "id": "sust_agro_004",
+    "theme": "Точное земледелие",
+    "description": "Технологии IoT и AI для оптимизации использования ресурсов в сельском хозяйстве",
+    "confidence": 0.79,
+    "category": "agrotech",
+    "tags": ["precision agriculture", "IoT", "AI", "sustainable farming"],
+    "source": "agtech_analysis",
+    "date": "2024-02-03",
+    "engagement_metrics": {
+      "mentions": 1600,
+      "growth_rate": 0.41,
+      "adoption_level": "early_adopters"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  },
+  {
+    "id": "sust_circular_005",
+    "theme": "Циклическая экономика",
+    "description": "Переход от линейной модели потребления к циклической экономике",
+    "confidence": 0.81,
+    "category": "circular_economy", 
+    "tags": ["circular economy", "recycling", "sustainability", "zero waste"],
+    "source": "sustainability_study",
+    "date": "2024-02-01",
+    "engagement_metrics": {
+      "mentions": 2300,
+      "growth_rate": 0.38,
+      "adoption_level": "early_mainstream"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  }
+]

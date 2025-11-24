@@ -1,0 +1,11 @@
+theme,confidence,category,source,date,keywords
+Python доминирует в Data Science,0.92,data_science,stack_overflow,2024-01-15,"python,data science,machine learning"
+React и Vue конкуренция во фронтенде,0.85,frontend,github,2024-01-12,"react,vue,frontend,framework"
+Rust рост популярности в системном программировании,0.78,systems,reddit,2024-01-10,"rust,systems,performance"
+Kubernetes стандарт для оркестрации,0.88,devops,survey,2024-01-08,"kubernetes,docker,containers"
+LLM интеграция в приложения,0.9,ai,research,2024-01-05,"llm,ai,generative"
+Serverless архитектура тренд,0.82,cloud,news,2024-01-03,"serverless,aws,lambda"
+Low-Code платформы для бизнес-приложений,0.75,development,report,2023-12-28,"lowcode,nocode,platform"
+WebAssembly для веб-приложений,0.79,web,tech_blog,2023-12-25,"webassembly,wasm,performance"
+Edge computing для IoT,0.81,iot,analysis,2023-12-20,"edge,iot,computing"
+Quantum computing прогресс,0.7,emerging,future,2023-12-15,"quantum,computing,future"

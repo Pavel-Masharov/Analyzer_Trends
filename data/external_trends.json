@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ext_001",
+    "theme": "AI код-генерация в разработке",
+    "description": "Использование моделей типа GPT для генерации кода становится стандартом",
+    "confidence": 0.89,
+    "category": "ai_development",
+    "tags": [
+      "ai",
+      "code generation",
+      "gpt",
+      "productivity"
+    ],
+    "source": "industry_report",
+    "date": "2024-01-14",
+    "engagement_metrics": {
+      "mentions": 2300,
+      "growth_rate": 0.35,
+      "adoption_level": "early_mainstream"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  },
+  {
+    "id": "ext_002",
+    "theme": "Монолиты vs Микросервисы баланс",
+    "description": "Разработчики находят баланс между монолитами и микросервисами",
+    "confidence": 0.83,
+    "category": "architecture",
+    "tags": [
+      "monolith",
+      "microservices",
+      "architecture",
+      "scalability"
+    ],
+    "source": "tech_survey",
+    "date": "2024-01-11",
+    "engagement_metrics": {
+      "mentions": 1800,
+      "growth_rate": 0.18,
+      "adoption_level": "mainstream"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  },
+  {
+    "id": "ext_003",
+    "theme": "TypeScript как стандарт для больших проектов",
+    "description": "TypeScript становится де-факто стандартом для enterprise приложений",
+    "confidence": 0.87,
+    "category": "frontend",
+    "tags": [
+      "typescript",
+      "javascript",
+      "enterprise",
+      "scalability"
+    ],
+    "source": "developer_survey",
+    "date": "2024-01-09",
+    "engagement_metrics": {
+      "mentions": 2100,
+      "growth_rate": 0.28,
+      "adoption_level": "mainstream"
+    },
+    "simulated_engagement": {
+    "likes": 4500,
+    "comments": 1200,
+    "reposts": 800,
+    "views": 15000
+  }
+  }
+]

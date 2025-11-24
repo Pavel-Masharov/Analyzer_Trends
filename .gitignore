@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Data files
+data/vector_store/
+*.pkl
+*.index
+
+# Test data
+aligned_test_data.csv
